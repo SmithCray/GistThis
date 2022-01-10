@@ -132,4 +132,7 @@ Email:
 <br>
 cmsmith004@gmail.com
 
+Checkout the full Gist here:
+https://gist.github.com/SmithCray/0f6af437c9108f964f31f626022a3adf
+
 <br>
